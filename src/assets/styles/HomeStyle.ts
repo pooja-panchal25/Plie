@@ -57,6 +57,7 @@ export const HomeStyle = StyleSheet.create({
     fontSize: 12,
     paddingVertical: '1%',
     paddingHorizontal: '2%',
+    width:50
   },
   typeContainer: {
     backgroundColor: Colors.primaryBlue,

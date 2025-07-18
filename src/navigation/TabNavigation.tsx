@@ -4,7 +4,7 @@ import { Text, View } from "react-native";
 import Icon from 'react-native-vector-icons/Ionicons';
 import HomeScreen from "../modules/home/HomeScreen";
 import EventScreen from "../modules/home/EventScreen";
-import FavouritesScreen from "../modules/home/FavouritesScreen";
+import FavouritesScreen from "../modules/wishlist/FavouritesScreen";
 import ProfileScreen from "../modules/home/ProfileScreen";
 import Colors from "../assets/styles/Colors";
 const Tab = createBottomTabNavigator();
